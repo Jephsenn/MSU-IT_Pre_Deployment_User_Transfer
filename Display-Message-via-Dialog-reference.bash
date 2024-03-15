@@ -210,7 +210,7 @@ if [[ -z "${title}" ]] || [[ -z "${message}" ]]; then
     title="Pre-Deployment User Transfer"
 
     messageoption="--message"
-    message="Welcome to the MSU Pre-Deployment User Transfer script! \n\n- Please ensure the user's folder is already created on the new device  \n- Drag both directories into the corresponding fields  \n- Standard Library Files includes (if found): Safari, Chrome, Mozilla, Thunderbird, and the MacOS Dock  \n- Happy transferring!"
+    message="Welcome to the Pre-Deployment User Transfer script! \n\n- Please ensure the user's folder is already created on the new device  \n- Drag both directories into the corresponding fields  \n- Standard Library Files includes (if found): Safari, Chrome, Mozilla, Thunderbird, and the MacOS Dock  \n- Happy transferring!"
 
     button1option="--button1text"
     button1text="Continue"
